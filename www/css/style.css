@@ -20,6 +20,8 @@
   background-color: #1E609C;  
   color: #fff; 
   width: 100% !important;
+  position: absolute;
+  left:0;
 }
 
 .tabs-custom, .tabs-custom .tab-item.tab-item-active, .tab-item.active, .tab-item.activated {
