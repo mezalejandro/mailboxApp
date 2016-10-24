@@ -2,3 +2,28 @@
     color : #fff !important;
     background-color:#1E609C!important;
  }
+
+.custom-width {
+	 min-width: 90px;
+}
+
+.green_btn {
+	background-color: #62D962 !important;
+}
+
+#tabs-top {
+	background-color:#1E609C!important;
+}
+
+.tabs-custom > .tabs,
+.tabs.tabs-custom {
+  background-color: #1E609C;  
+  color: #fff; 
+  width: 100% !important;
+}
+
+.tabs-custom, .tabs-custom .tab-item.tab-item-active, .tab-item.active, .tab-item.activated {
+    color:#fff !important;
+}
+
+
